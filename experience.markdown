@@ -16,6 +16,7 @@ I'm also a demonstrator representative for one of my courses - this involves reg
 Courses covered include:
 * Networks and Operating Systems Essentials 2
 * Algorithmic Foundations 2 (discrete mathematics for computer science)
+* Algorithms and Data Structures 2
 
 # Intern Developer
 ## Barclays
